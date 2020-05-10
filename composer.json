@@ -1,0 +1,15 @@
+{
+    "name": "laraws/algorithm",
+    "description": "Alogorithm example",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "laraws",
+            "email": "larawsw@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "phpunit/phpunit": "^9.1"
+    }
+}

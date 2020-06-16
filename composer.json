@@ -11,5 +11,10 @@
     "require": {
         "php": ">=7.3",
         "phpunit/phpunit": "^9.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Laraws\\Alg\\": "./src/"
+        }
     }
 }
